@@ -33,7 +33,6 @@ This project allows hospitals to manage patient records, update details, delete 
 ---
 
 ## 📂 Project Structure
-
 ```
 Advanced-Hospital-Management-System/
 │
@@ -41,12 +40,6 @@ Advanced-Hospital-Management-System/
 ├── patients.dat     (Auto-created file for storing records)
 └── README.md
 ```
-
----
-
-```
-
----
 
 ## 📖 Sample Menu
 
